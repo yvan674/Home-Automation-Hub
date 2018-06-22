@@ -1,0 +1,12 @@
+.root {
+    -fx-background-color: #292929;
+}
+
+.transparent-button {
+    -fx-background-color: transparent;
+    -fx-text-fill: #ffffff;
+}
+
+#lightbulb-button {
+    -fx-graphic: url("media/lightbulb.png");
+}
